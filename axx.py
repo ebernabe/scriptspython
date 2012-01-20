@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #Filename: axx.py
-
+# editando registro de dns bind cambiando serial e ip
 import os
 import sys
 import time
