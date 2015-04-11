@@ -5,8 +5,8 @@ import os
 import sys
 import time
 
-ip1 = "174.129.214.228"
-ip2 = "184.72.58.15"
+ip1 = "230.129.214.228"
+ip2 = "220.72.58.15"
 
 def replace_all(text, dic):
     for i, j in dic.iteritems():
